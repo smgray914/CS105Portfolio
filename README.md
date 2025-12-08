@@ -20,7 +20,7 @@ Loyola University Maryland
 ### Projects
 
 #### GDB- Marvel Personality Quiz
-![Persopnality quiz coding]
+[![Persopnality quiz coding]<img width="1066" height="704" alt="Screenshot 2025-12-08 at 10 30 56 AM" src="https://github.com/user-attachments/assets/435459a3-f207-4114-92be-18545303acc6" />](https://onlinegdb.com/2gF4rPxft0)
 
 We were tasked to create a personality quiz, and I am a big fan of Marvel: Agents of S.H.I.E.L.D. right now, so I decided to make it based on those characters. I used the Python coding language in online GDB to create this.
 Challenges I faced:
