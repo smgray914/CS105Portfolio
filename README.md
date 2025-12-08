@@ -29,13 +29,46 @@ Result:
 I definitely achieved my goals, although I would prefer to have better and deeper questions for the quiz. I think some are very surface-level.
 
 Summary:
+When entering the quiz, users are given instructions to read each question and answer according to specific parameters. Using the answers they enter, the program figures out which character their answers align most closely with. 
+
+#### Course Grade Evaluator
+[<img width="1067" height="705" alt="Screenshot 2025-12-08 at 10 40 05 AM" src="https://github.com/user-attachments/assets/2f4f9fa6-5e6a-4a9e-b6e7-9a566a658c8e" />](https://onlinegdb.com/n-_4H06GyB)
+
+Initial project idea: 
+This project was made to calculate 
+
+Tools I used: 
+What tools did you use in completing this project? 
+
+Challenges I faced:
+What challenges did you face, and how? What obstacles did you overcome? 
+
+Other Resources: 
+Did you used any other resources? Did you collaborate with anyone to get this done? 
+
+Result:
+What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+
+Summary:
 Write a 25 to 35 word summary for this project.
-***
-#### Project 2 Title
-- ![Image](link-to-image)
-- Write-up here
 
 ***
 #### Project 3 Title
 - ![Image](link-to-image)
-- Write-up here
+Initial project idea: 
+How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+
+Tools I used: 
+What tools did you use in completing this project? 
+
+Challenges I faced:
+What challenges did you face, and how? What obstacles did you overcome? 
+
+Other Resources: 
+Did you used any other resources? Did you collaborate with anyone to get this done? 
+
+Result:
+What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+
+Summary:
+Write a 25 to 35 word summary for this project.
