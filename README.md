@@ -35,40 +35,39 @@ When entering the quiz, users are given instructions to read each question and a
 [<img width="1067" height="705" alt="Screenshot 2025-12-08 at 10 40 05 AM" src="https://github.com/user-attachments/assets/2f4f9fa6-5e6a-4a9e-b6e7-9a566a658c8e" />](https://onlinegdb.com/n-_4H06GyB)
 
 Initial project idea: 
-This project was made to calculate 
-
-Tools I used: 
-What tools did you use in completing this project? 
+This project was made to calculate weighted course grades. Users entered assignment grades and section weights; the program gave back your final grade and GPA. To create this code, I used online GDB.
 
 Challenges I faced:
-What challenges did you face, and how? What obstacles did you overcome? 
+When creating this, I faced little technical challeng. This assignment solidified my understanding of Python, and was more focused on combining aspects learned in class.
 
 Other Resources: 
-Did you used any other resources? Did you collaborate with anyone to get this done? 
+The resources I used most for this project were the online guides to math in Python, including the videos found on the class Moodle. 
 
 Result:
-What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+The results of this assignment were successful. This program helped me keep track of my course grades throughout the semester.
 
 Summary:
-Write a 25 to 35 word summary for this project.
+This program requires the user to input their name, class code, and list assignment grades and weights. The program then returns a transcript-like report of final grades.
 
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
+#### [Excel Inventory Manager](https://studentsloyola-my.sharepoint.com/:x:/g/personal/smgray_loyola_edu/IQAUHS-4fpn7T65rwqyehbkyAYLa6BuIkoq0ArJq-kuoc2I?e=Q3r9HS)
+
+<img width="1350" height="701" alt="Screenshot 2025-12-08 at 6 12 09 PM" src="https://github.com/user-attachments/assets/aaa931e7-4f26-4b01-b030-b14b61ffbd14" />
+
 Initial project idea: 
-How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+This project aimed to create an inventory manager for a company of my choice and create charts based on sales.
 
 Tools I used: 
-What tools did you use in completing this project? 
+This project was created with Excel. This assignment was intended to gain familiarity with Excel and how to navigate Microsoft programs.
 
 Challenges I faced:
-What challenges did you face, and how? What obstacles did you overcome? 
+The only challenge I faced in creating this was creating a company and inventory information to fill out mock spreadsheets. 
 
 Other Resources: 
-Did you used any other resources? Did you collaborate with anyone to get this done? 
+In order to get accurate pricing, I used gem sales sites to get bulk pricing, as well as jewelry sites to accurately understand market pricing. 
 
 Result:
-What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+This project was useful in understanding how to create formulas in Excel. This could be used by a small business, or with some tweaking, a large company, to accurately price items and track sales. 
 
 Summary:
-Write a 25 to 35 word summary for this project.
+This assignment can be used to organize inventory and manage budget. Users need to input information like item name, type, manufacturing price, and profit margin, and can track sales and costs. 
