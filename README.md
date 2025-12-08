@@ -14,7 +14,7 @@ My expansive skill set, commitment to perfection, and passion for coffee make me
 You can find me on www.linkedin.com/in/saturn-gray-727a61312 or Instagram.
 
 ### Education
-**BSc in Political Science and Comparative Cultural Literary Studies**  
+**BA in Political Science and Comparative Cultural Literary Studies**  
 Loyola University Maryland
 
 ### Projects
